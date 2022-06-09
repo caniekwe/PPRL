@@ -9,7 +9,7 @@ This project demonstrates steps to implement privacy preserving record linkage u
 5. Classification
 6. Evaluation
 
-Before you start
+### Before you start
 You will need to have the following installed on your machine before following
 the commands below:
 
@@ -27,15 +27,11 @@ Fork this repo.
 Clone the repo you just forked.
 
 
-Running Jekyll
-The preferred method for running Jekyll is with bundle exec jekyll serve.
-
-
-
-Referenced projects
+### Referenced projects
 This project uses a few other projects as below:
 * Implementation examples of Python Record Linkage Toolkit: https://github.com/mayerantoine/recordlinkage 
 
-Licences
-
+# ----
+### License
+This project is licensed under the GNU General Public License v3.0
 
