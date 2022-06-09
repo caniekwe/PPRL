@@ -25,7 +25,7 @@ This project uses a few other projects as below:
 * Python record linkage toolkit: https://recordlinkage.readthedocs.io/en/latest/about.html 
 * Bloom filter examples: https://github.com/onnovalkering/notebooks/tree/master/record-linkage
 
-# ----
+----
 ### License
 This project is licensed under the GNU General Public License v3.0
 
