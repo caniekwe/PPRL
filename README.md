@@ -31,7 +31,7 @@ This project is licensed under the GNU General Public License v3.0
 
 ----
 ### Contact
-If you will like more information on this project, please contact any of the project team members listed below:
+If you will like more information on this project, please contact any of the project team members listed below: </br>
 Chinedu Aniekwe: pvp1@cdc.gov
 Mary Ejiwale: rvu3@cdc.gov
 Young Shin Park: rvp8@cdc.gov
