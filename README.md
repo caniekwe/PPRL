@@ -31,9 +31,10 @@ This project is licensed under the GNU General Public License v3.0
 
 ----
 ### Contact
-If you will like more information on this project, please contact any of the project team members listed below: </br>
-Chinedu Aniekwe: pvp1@cdc.gov
-Mary Ejiwale: rvu3@cdc.gov
+If you will like more information on this project, please contact any of the project team members listed below: 
+
+Chinedu Aniekwe: pvp1@cdc.gov </br>
+Mary Ejiwale: rvu3@cdc.gov<br/>
 Young Shin Park: rvp8@cdc.gov
 Mohamed Bouras: qkf5@cdc.gov
 Blessings Chisunkha: rve2@cdc.gov
